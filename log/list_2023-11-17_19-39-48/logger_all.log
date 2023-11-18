@@ -1,0 +1,90 @@
+[1.633s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/doughnut/code/BamthrivingVision_ROS_framework']
+[1.633s] DEBUG:colcon:Parsed command line arguments: Namespace(allow_overriding=[], base_paths=['/home/doughnut/code/BamthrivingVision_ROS_framework'], build_base='build', ignore_user_meta=False, log_base=None, log_level=None, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x7fc00db3b280>>, metas=['./colcon.meta'], names_only=False, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, packages_up_to_regex=None, paths=None, paths_only=True, topological_graph=False, topological_graph_density=False, topological_graph_dot=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, topological_graph_legend=False, topological_order=False, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x7fc00db3b280>, verb_name='list', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7fc00d84b610>)
+[1.703s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[1.703s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[1.703s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[1.703s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[1.703s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[1.703s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/doughnut/code/BamthrivingVision_ROS_framework'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['ignore', 'ignore_ament_install']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'ignore'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'ignore_ament_install'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['colcon_pkg']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'colcon_pkg'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['colcon_meta']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'colcon_meta'
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['ros']
+[1.703s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'ros'
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['cmake', 'python']
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'cmake'
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'python'
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extensions ['python_setup_py']
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework) by extension 'python_setup_py'
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/build) by extensions ['ignore', 'ignore_ament_install']
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/build) by extension 'ignore'
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/build) ignored
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['ignore', 'ignore_ament_install']
+[1.732s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'ignore'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'ignore_ament_install'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['colcon_pkg']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'colcon_pkg'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['colcon_meta']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'colcon_meta'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['ros']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'ros'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['cmake', 'python']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'cmake'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'python'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extensions ['python_setup_py']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/doc) by extension 'python_setup_py'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/install) by extensions ['ignore', 'ignore_ament_install']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/install) by extension 'ignore'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/install) ignored
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/log) by extensions ['ignore', 'ignore_ament_install']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/log) by extension 'ignore'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/log) ignored
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['ignore', 'ignore_ament_install']
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'ignore'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'ignore_ament_install'
+[1.733s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['colcon_pkg']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'colcon_pkg'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['colcon_meta']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'colcon_meta'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['ros']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'ros'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['cmake', 'python']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'cmake'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'python'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extensions ['python_setup_py']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src) by extension 'python_setup_py'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extensions ['ignore', 'ignore_ament_install']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extension 'ignore'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extension 'ignore_ament_install'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extensions ['colcon_pkg']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extension 'colcon_pkg'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extensions ['colcon_meta']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extension 'colcon_meta'
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extensions ['ros']
+[1.734s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver) by extension 'ros'
+[1.736s] DEBUG:colcon.colcon_core.package_identification:Package '/home/doughnut/code/BamthrivingVision_ROS_framework/src/camera_driver' with type 'ros.ament_cmake' and name 'camera_driver'
+[1.736s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extensions ['ignore', 'ignore_ament_install']
+[1.736s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extension 'ignore'
+[1.736s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extension 'ignore_ament_install'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extensions ['colcon_pkg']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extension 'colcon_pkg'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extensions ['colcon_meta']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extension 'colcon_meta'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extensions ['ros']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/config) by extension 'ros'
+[1.737s] DEBUG:colcon.colcon_core.package_identification:Package '/home/doughnut/code/BamthrivingVision_ROS_framework/src/config' with type 'ros.ament_cmake' and name 'config'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extensions ['ignore', 'ignore_ament_install']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extension 'ignore'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extension 'ignore_ament_install'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extensions ['colcon_pkg']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extension 'colcon_pkg'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extensions ['colcon_meta']
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extension 'colcon_meta'
+[1.737s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extensions ['ros']
+[1.738s] Level 1:colcon.colcon_core.package_identification:_identify(/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial) by extension 'ros'
+[1.738s] DEBUG:colcon.colcon_core.package_identification:Package '/home/doughnut/code/BamthrivingVision_ROS_framework/src/serial' with type 'ros.ament_cmake' and name 'serial'
+[1.738s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

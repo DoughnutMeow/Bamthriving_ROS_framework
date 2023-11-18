@@ -1,0 +1,9 @@
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/uninstall.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/camera_driver_uninstall.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/test.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/edit_cache.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/rebuild_cache.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/list_install_components.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/install.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/install/local.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/camera_driver/CMakeFiles/install/strip.dir

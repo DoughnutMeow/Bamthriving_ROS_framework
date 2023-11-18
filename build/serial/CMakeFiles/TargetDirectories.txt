@@ -1,0 +1,9 @@
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/uninstall.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/serial_uninstall.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/test.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/edit_cache.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/rebuild_cache.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/list_install_components.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/install.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/install/local.dir
+/home/doughnut/code/BamthrivingVision_ROS_framework/build/serial/CMakeFiles/install/strip.dir

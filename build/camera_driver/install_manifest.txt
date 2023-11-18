@@ -1,0 +1,15 @@
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/ament_index/resource_index/package_run_dependencies/camera_driver
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/ament_index/resource_index/parent_prefix_path/camera_driver
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/environment/ament_prefix_path.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/environment/ament_prefix_path.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/environment/path.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/environment/path.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/local_setup.bash
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/local_setup.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/local_setup.zsh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/local_setup.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/package.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/ament_index/resource_index/packages/camera_driver
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/cmake/camera_driverConfig.cmake
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/cmake/camera_driverConfig-version.cmake
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/camera_driver/share/camera_driver/package.xml

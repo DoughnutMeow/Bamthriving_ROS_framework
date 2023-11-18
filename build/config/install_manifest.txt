@@ -1,0 +1,15 @@
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/ament_index/resource_index/package_run_dependencies/config
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/ament_index/resource_index/parent_prefix_path/config
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/environment/ament_prefix_path.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/environment/ament_prefix_path.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/environment/path.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/environment/path.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/local_setup.bash
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/local_setup.sh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/local_setup.zsh
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/local_setup.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/package.dsv
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/ament_index/resource_index/packages/config
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/cmake/configConfig.cmake
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/cmake/configConfig-version.cmake
+/home/doughnut/code/BamthrivingVision_ROS_framework/install/config/share/config/package.xml
